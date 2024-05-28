@@ -1,4 +1,3 @@
-# Security-Auditing
 # Security Audit for Botium Toys
 
 ## Scope and Goals of the Audit
